@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(9, 9, 92);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+header{
+    background-color: rgb(9, 220, 248);
+    padding: 10px;
+}
+h1,h2,h3,h4,figure,p{
+    margin: 0;
+}
+h2{
+    margin: 20px;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+figcaption{
+    display: none;
+}
+div{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    margin: 10px;
+}
+button{
+    width: 100%;
+    border: 0;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(9, 220, 248);
+    color: white;
+    font-size: 20px;
+}
+button:hover{
+    background-color: red;
+    color:black;
+}
+header figure img{
+    width: 60px;
+    height: 60px;
+    margin-right: 5px;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.final button{
+    margin: 0px;
+    width: 200px;
+    display: inline-block;
+}
