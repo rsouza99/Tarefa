@@ -55,8 +55,9 @@ header{
     margin: 0 auto;
 }
 .final,.visu{
-    margin: 0px;
-    margin-left: 30px;
+    margin: 20px;
+    margin-inline: 20px;
+    margin-bottom: 100px;
     width: 200px;
     height: 0px;
     display: inline-block;
