@@ -54,8 +54,10 @@ header{
     max-width: 1000px;
     margin: 0 auto;
 }
-.final button{
+.final,.visu{
     margin: 0px;
+    margin-left: 30px;
     width: 200px;
+    height: 0px;
     display: inline-block;
 }
